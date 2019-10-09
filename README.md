@@ -1,2 +1,2 @@
 # YohandelPHP
-Simple projects in PHP used to improve my knowledge 
+Simple projects in PHP to improve my knowledge 
